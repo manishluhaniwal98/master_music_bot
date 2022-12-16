@@ -1,5 +1,5 @@
 ### master_music_bot
-The Msuci Bot for streaming Music in Telegram Groups. Developed by Shubham and Manish.
+The Music Bot for streaming Music in Telegram Groups. Developed by Shubham and Manish.
 <p align="center">A Best Music Telegram Bot By Shubham and manish</p>
 
 
